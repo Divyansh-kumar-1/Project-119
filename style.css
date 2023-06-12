@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(aqua,lime,pink);
+}
+#Score_no{
+ font-size:30px;
+ margin-left:10px;
+}
+#Timer{
+    font-size: 35px;
+    float: right;
+    margin-right:80px;
+}
+#SketchToBeDrawn{
+    color:brown;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#show_sketch{
+    float:right;
+}
+#p_tags{
+    font-size:40px;
+    margin:10px;
+}
+canvas{
+    margin-top: 100px;
+}
